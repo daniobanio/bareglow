@@ -1,69 +1,105 @@
-# Welcome to your Lovable project
+# BareGlow
 
-## Project info
+BareGlow is a comprehensive skincare review and blog-style website designed to be the ultimate destination for skincare enthusiasts. Our platform combines professional reviews with community-driven insights, helping users make informed decisions about their skincare journey.
 
-**URL**: https://lovable.dev/projects/d61eef24-0d1d-4daa-bdd9-b12d9ae1c7f2
+## 🌟 Features
 
-## How can I edit this code?
+### Product Reviews & Analysis
 
-There are several ways of editing your application.
+- Professional reviews by the BareGlow team
+- User-generated ratings and reviews
+- Detailed ingredient analysis
+- Image/video upload capability for user reviews
 
-**Use Lovable**
+### Personalized Experience
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d61eef24-0d1d-4daa-bdd9-b12d9ae1c7f2) and start prompting.
+- "What's My Skin" Quiz for personalized recommendations
+- Customizable user profiles
+- Tailored skincare guides
+- Product recommendations based on skin type
 
-Changes made via Lovable will be committed automatically to this repo.
+### Advanced Search & Filtering
 
-**Use your preferred IDE**
+- Filter by product type (moisturizers, serums, sunscreens, etc.)
+- Sort by skin type compatibility
+- Price range filtering
+- Brand-specific searches
+- Rating-based sorting
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Blog & Educational Content
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Regular skincare guides
+- Product roundups
+- Brand spotlights
+- Ingredient deep dives
+- Industry trends and news
 
-Follow these steps:
+### Community Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- User comments and discussions
+- Review voting system
+- Community engagement tools
+- Profile customization
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🛠️ Tech Stack
 
-# Step 3: Install the necessary dependencies.
-npm i
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Vite
+- Tailwind CSS
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 🎯 Mission
+
+BareGlow aims to:
+
+- Create a welcoming space for both skincare beginners and experts
+- Provide reliable, expert-backed skincare information
+- Foster a supportive community of skincare enthusiasts
+- Help users make informed decisions about their skincare routine
+- Simplify the process of finding the right products for individual needs
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/daniobanio/bareglow.git
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Run the development server:
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 💡 Contributing
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+We welcome contributions to BareGlow! Whether it's:
 
-**Use GitHub Codespaces**
+- Bug reports
+- Feature suggestions
+- Code improvements
+- Documentation updates
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Please feel free to open an issue or submit a pull request.
 
-## What technologies are used for this project?
+## 📝 License
 
-This project is built with .
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🤝 Contact
 
-## How can I deploy this project?
+For any questions or concerns, please open an issue on GitHub.
 
-Simply open [Lovable](https://lovable.dev/projects/d61eef24-0d1d-4daa-bdd9-b12d9ae1c7f2) and click on Share -> Publish.
+---
 
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Made with ❤️ by the BareGlow Team
